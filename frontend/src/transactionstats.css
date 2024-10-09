@@ -1,0 +1,30 @@
+.transaction-stats {
+    margin: 40px;
+    text-align: center;
+}
+
+.transaction-stats h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.stats-box {
+    background-color: #ffeb99;
+    padding: 50px;
+    border-radius: 15px;
+    display: inline-block;
+    text-align: left;
+}
+
+.stats-box p {
+    font-size: 1.2em;
+    margin: 10px 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+.stats-box span {
+    font-weight: bold;
+    font-size: 1.3em;
+}
